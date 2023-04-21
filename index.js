@@ -35,7 +35,7 @@ $(document).ready(function(){
       mainDiv.classList.add('product-card');
 
       var productLink = document.createElement('a');
-      productLink.href = 'http://127.0.0.1:5500/prod.html';
+      productLink.href = 'https://sandy-ajar-bangle.glitch.me/prod.html';
 
       var productImage = document.createElement('img');
       productImage.classList.add('product-image');
